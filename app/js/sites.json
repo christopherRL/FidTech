@@ -1,0 +1,18 @@
+{
+  "sites": [
+    {
+      "name": "RalphLaurenMagazine",
+      "git": "http://gitweb.poloralphlauren.com/?p=OpenText/RalphLaurenMagazine.git;a=summary",
+      "production": "http://www.ralphlauren.com/us/en/magazine",
+      "qa": "https://rlmag-prev.ralphlauren.com/sites/us/en/magazine",
+      "languages": "Java, JavaScript, OpenText"
+    },
+    {
+      "name": "Dumbo App",
+      "git": "https://146.20.26.104/interactive/dumbo-app",
+      "production": "",
+      "qa": "",
+      "languages": "Node"
+    }
+  ]
+}
